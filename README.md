@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 
 ![Dynamic name](https://github-readme-stats.vercel.app/api?username=aryanvikash&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanvikash&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanvikash&layout=compact&theme=radical)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/aryanvikash/)
