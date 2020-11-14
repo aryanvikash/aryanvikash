@@ -2,7 +2,7 @@
 - 💻 I’m currently learning Android
 - 👨‍💻 I’m looking to collaborate on projects
 - 💬 Not enough qualified To answer anything
-- 🌐 [aryanvikash.com](https://aryyanvikash.com)
+- 🌐 [aryanvikash.com](https://aryanvikash.com)
 - 📫 Reach me on [![Dynamic name](https://img.shields.io/badge/aryanvikash-30302f?style=flat&logo=telegram)](https://t.me/aryanvikash)
 
 - ⚡ Fun fact :- `Life is full of failure But still trying :)`
