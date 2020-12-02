@@ -9,8 +9,8 @@ Q | A
 **My Machine**  | `Acer aspire 5s`
 **Editor**  | `Visual Studio Code`
 **Platforms I develop for** | `Mobile, Web, CLI`
-**Languages I know**  | `JS, Python , Kotlin ,Dart , Php`
-**Languages I learning** | `Go, Rust, C++ `
+**Languages I know**  | `C , JS, Python , Kotlin ,Dart`
+**Languages I learning** | `Go, Rust , C++`
 
 
 
