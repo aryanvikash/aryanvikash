@@ -10,8 +10,8 @@ Q | A
 **Editor**  | `Visual Studio Code`
 **Platforms I develop for** | `Mobile, Web, CLI`
 **Languages I know**  | `C , JS, Python , Kotlin ,Dart`
-**Languages I learning** | `Go, Rust , C++`
-
+**Languages I learning** | `Go, Rust , C++ `
+**2021 learning Goal** | `Webrtc  , Vue , serverless React-native , Redux ,Frontend Gralhql `
 
 
  ‏‏‎ ‎| ‏‏‎ ‎
