@@ -11,7 +11,7 @@ Q | A
 **Platforms I develop for** | `Mobile, Web, CLI`
 **Languages I know**  | `C , JS, Python , Kotlin ,Dart`
 **Languages I learning** | `Go, Rust , C++ `
-**2021 learning Goal** | `Webrtc  , Vue , serverless React-native , Redux ,Frontend Gralhql `
+**2021 learning Goal** | `Webrtc  , Vue , serverless React-native , Redux ,Frontend Graphql `
 
 
  ‏‏‎ ‎| ‏‏‎ ‎
