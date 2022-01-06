@@ -12,7 +12,7 @@ Q | A
 **Languages I know**  | `C , JS, Python , Kotlin ,Dart,Php`
 **Languages I learning** | `Go, Rust , C++ `
 **2021 learning Goal** | `Advanced Data Structures `
-**2022 learning Goal** | `Blockchain , Devops`
+**2022 learning Goal** | `Blockchain , Devops,Vuejs,Svelte`
 **Skills**  | `REST API ,Android Native Flutter,ReactJs ,Graphql , Database `
 
 
