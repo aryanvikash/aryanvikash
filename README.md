@@ -9,11 +9,11 @@ Q | A
 **My Machine**  | `Lenovo legion 5`
 **Editor**  | `Visual Studio Code \|\| IntelliJ `
 **Platforms I develop for** | `Mobile, Web, CLI`
-**Languages I know**  | `C , JS, Python , Kotlin ,Dart,Php`
-**Languages I learning** | `Go, Rust , C++ `
+**Languages I know**  | `C , Javascript/Typescript, Python , Kotlin ,Dart , Php`
+**Languages I learning** | `Go, Rust`
 **2021 learning Goal** | `Advanced Data Structures `
-**2022 learning Goal** | `Blockchain , Devops,Vuejs,Svelte`
-**Skills**  | `REST API ,Android Native Flutter,ReactJs ,Graphql , Database `
+**2022 learning Goal** | ` Devops,`
+**Skills**  | `REST API , Android Native Flutter, ReactJs ,Graphql , Database , Blockchain `
 
 
  ‏‏‎ ‎| ‏‏‎ ‎
