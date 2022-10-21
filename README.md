@@ -18,7 +18,7 @@ Q | A
 
  ‏‏‎ ‎| ‏‏‎ ‎
  --- | ---
-![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=aryanvikash&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanvikash&theme=radical&layout=compact)
+![Aryan's github stats](https://github-stats-alpha.vercel.app/api?username=aryanvikash&cc=000&tc=fff&ic=fff&bc=000) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanvikash&theme=radical&layout=compact)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanvikash"></img>
 
