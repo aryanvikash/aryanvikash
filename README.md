@@ -1,22 +1,38 @@
 # Welcome to My Profile! 👋 
-![https://t.me/araynvikash](https://img.shields.io/badge/telegram-aryanvikash-blue)
  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/aryanvikash/)
 
+### ⚡ Tech Stack
 
-
-Q | A
---- | --- 
-**My Machine**  | `Lenovo legion 5`
-**Editor**  | `Visual Studio Code \|\| IntelliJ `
-**Platforms I develop for** | `Mobile, Web, CLI`
-**Languages I know**  | `C , Javascript/Typescript, Python , Kotlin ,Dart , Php`
-**Languages I learning** | `Go, Rust`
-**2021 learning Goal** | `Advanced Data Structures `
-**2022 learning Goal** | ` Devops,`
-**Skills**  | `REST API , Android Native Flutter, ReactJs ,Graphql , Database , Blockchain `
-
+- Javascript/Typescript
+- NodeJS
+- Python
+- Kotlin 
+- Dart | Flutter
+- Native Android | xml | Jetpack compose
+- React
+- Next
+- MongoDB 
+- MySql | POSTGRES
+- REST
+- Git
+- AWS 
+- Firebase
+- Docker
+- Linux
+- Pubsub | Rabbitmq | Sqs
+- Blockchain  Smart Contracts (Familier)
 
  ‏‏‎ ‎| ‏‏‎ ‎
+ ### ⚡ Connect
+
+- [Telegram](https://telegram.dog/aryanvikash "Telegram")
+- [Twitter](https://twitter.com/_aryanvikash "Twitter")
+
+### ⚡ Contact
+
+- [Mail](mailto:aryanvikash@duck.com "Mail")
+ 
+ 
  --- | ---
 ![Aryan's github stats](https://github-stats-alpha.vercel.app/api?username=aryanvikash&cc=000&tc=fff&ic=fff&bc=000) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanvikash&theme=radical&layout=compact)
 
