@@ -20,6 +20,7 @@
 - Docker
 - Linux
 - Pubsub | Rabbitmq | Sqs
+- Graphql (Familier)
 - Blockchain  Smart Contracts (Familier)
 
 
