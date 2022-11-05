@@ -34,7 +34,7 @@
 - [Mail](mailto:aryanvikash@duck.com "Mail")
 
 
-![Aryan's github stats](https://github-stats-alpha.vercel.app/api?username=aryanvikash&cc=000&tc=fff&ic=fff&bc=000)  [![GitHub Streak](https://streak-stats.demolab.com?user=aryanvikash&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Aryan's github stats](https://github-stats-alpha.vercel.app/api?username=aryanvikash&cc=000&tc=fff&ic=fff&bc=000)  [![GitHub Streak](https://streak-stats.demolab.com?user=aryanvikash&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 
 
