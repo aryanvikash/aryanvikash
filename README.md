@@ -22,7 +22,7 @@
 - Pubsub | Rabbitmq | Sqs
 - Blockchain  Smart Contracts (Familier)
 
- ‏‏‎ ‎| ‏‏‎ ‎
+
  ### ⚡ Connect
 
 - [Telegram](https://telegram.dog/aryanvikash "Telegram")
@@ -32,7 +32,7 @@
 
 - [Mail](mailto:aryanvikash@duck.com "Mail")
  
- 
+  ‏‏‎ ‎| ‏‏‎ ‎
  --- | ---
 ![Aryan's github stats](https://github-stats-alpha.vercel.app/api?username=aryanvikash&cc=000&tc=fff&ic=fff&bc=000) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanvikash&theme=radical&layout=compact)
 
