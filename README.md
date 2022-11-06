@@ -8,7 +8,7 @@
 - Python
 - Kotlin 
 - Dart | Flutter
-- Native Android | xml | Jetpack compose
+- Android | xml | Jetpack compose
 - React
 - Next
 - MongoDB 
