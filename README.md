@@ -17,6 +17,7 @@ Set sail with me as we navigate the seas of innovation and discover hidden treas
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)  
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)  
+![Golang](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 
 ### **Frameworks & Libraries**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
